@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blood\\source\\repos\\Crosshair\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01F208F-5A6A-44C1-859B-82D93193CE0B}|Crosshair\\Crosshair.vcxproj|C:\\Users\\blood\\source\\repos\\Crosshair\\Crosshair\\CROSSHAIR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01F208F-5A6A-44C1-859B-82D93193CE0B}|Crosshair\\Crosshair.vcxproj|solutionrelative:Crosshair\\CROSSHAIR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CROSSHAIR.cpp",
+              "DocumentMoniker": "C:\\Users\\blood\\source\\repos\\Crosshair\\Crosshair\\CROSSHAIR.cpp",
+              "RelativeDocumentMoniker": "Crosshair\\CROSSHAIR.cpp",
+              "ToolTip": "C:\\Users\\blood\\source\\repos\\Crosshair\\Crosshair\\CROSSHAIR.cpp",
+              "RelativeToolTip": "Crosshair\\CROSSHAIR.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T18:40:47.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

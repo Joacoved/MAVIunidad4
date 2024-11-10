@@ -1,0 +1,19 @@
+﻿  CLICKEALE.cpp
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(32,29): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "CLICKEALE.cpp")
+  
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,41): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,41): warning C4244:         with
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,41): warning C4244:         [
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,41): warning C4244:             T=int
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,41): warning C4244:         ]
+  (compilando archivo de origen "CLICKEALE.cpp")
+  
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,29): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,29): warning C4244:         with
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,29): warning C4244:         [
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,29): warning C4244:             T=int
+C:\Users\blood\source\repos\Clickale\Clickale\Juego.h(67,29): warning C4244:         ]
+  (compilando archivo de origen "CLICKEALE.cpp")
+  
+  Clickale.vcxproj -> C:\Users\blood\source\repos\Clickale\x64\Debug\Clickale.exe
